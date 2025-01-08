@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "Fira Sans";
+    src: url('assets/fonts/LibreBaskerville-Regular.ttf');
+    src: url('assets/fonts/LibreBaskerville-Italic.ttf') format('italic'),
+         url('assets/fonts/LibreBaskerville-Bold.ttf') format('bold');
+}
+
+
+html {
+    padding: 30pt;
+  }
+
+
+body{
+    margin: auto;
+    background-color: rgb(237, 237, 237);
+    color: rgb(50, 50, 50);
+    font-family: 'Fira Sans', Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.imagen{
+    text-align: center;
+}
+
+.imagen img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 2%;
+}
+
+.text{
+    font-size: 1.3em;
+    line-height: 2;
+    max-width: 800px;
+    text-align: justify;
+    text-align-last: left;
+margin: auto;
+
+}

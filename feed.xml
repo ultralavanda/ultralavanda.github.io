@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Ultralavanda</title>
+    <link href="https://ultralavanda.github.io/ultralavanda.github.io/feed.xml" rel="self" />
+    <link href="https://ultralavanda.github.io/ultralavanda.github.io" />
+    <updated>2025-01-12T15:32:46+01:00</updated>
+    <author>
+        <name>Carlos</name>
+    </author>
+    <id>https://ultralavanda.github.io/ultralavanda.github.io</id>
+
+    <entry>
+        <title>Entrada 01</title>
+        <author>
+            <name>Carlos</name>
+        </author>
+        <link href="https://ultralavanda.github.io/ultralavanda.github.io/entrada-01/"/>
+        <id>https://ultralavanda.github.io/ultralavanda.github.io/entrada-01/</id>
+
+        <updated>2025-01-12T15:22:52+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>Texto de entrada</p>
+<figure class="post__image post__image--wide"><img loading="lazy"  src="https://ultralavanda.github.io/ultralavanda.github.io/media/posts/2/20250108.jpg" alt="" width="500" height="311" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://ultralavanda.github.io/ultralavanda.github.io/media/posts/2/responsive/20250108-xs.jpg 640w ,https://ultralavanda.github.io/ultralavanda.github.io/media/posts/2/responsive/20250108-sm.jpg 768w ,https://ultralavanda.github.io/ultralavanda.github.io/media/posts/2/responsive/20250108-md.jpg 1024w ,https://ultralavanda.github.io/ultralavanda.github.io/media/posts/2/responsive/20250108-lg.jpg 1366w ,https://ultralavanda.github.io/ultralavanda.github.io/media/posts/2/responsive/20250108-xl.jpg 1600w ,https://ultralavanda.github.io/ultralavanda.github.io/media/posts/2/responsive/20250108-2xl.jpg 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

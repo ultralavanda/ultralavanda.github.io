@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://ultralavanda.github.io/ultralavanda.github.io/sitemap.xml

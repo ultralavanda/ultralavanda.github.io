@@ -3,7 +3,7 @@
     <title>Ultralavanda</title>
     <link href="https://ultralavanda.github.io/ultralavanda.github.io/feed.xml" rel="self" />
     <link href="https://ultralavanda.github.io/ultralavanda.github.io" />
-    <updated>2025-01-12T15:40:58+01:00</updated>
+    <updated>2025-01-12T15:42:23+01:00</updated>
     <author>
         <name>Carlos</name>
     </author>
@@ -22,7 +22,7 @@
         <content type="html">
             <![CDATA[
                 <p>Texto de entrada</p>
-<figure class="post__image post__image--wide"><img loading="lazy"  src="https://ultralavanda.github.io/ultralavanda.github.io/media/posts/2/20250108.jpg" alt="" width="500" height="311" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://ultralavanda.github.io/ultralavanda.github.io/media/posts/2/responsive/20250108-xs.jpg 640w ,https://ultralavanda.github.io/ultralavanda.github.io/media/posts/2/responsive/20250108-sm.jpg 768w ,https://ultralavanda.github.io/ultralavanda.github.io/media/posts/2/responsive/20250108-md.jpg 1024w ,https://ultralavanda.github.io/ultralavanda.github.io/media/posts/2/responsive/20250108-lg.jpg 1366w ,https://ultralavanda.github.io/ultralavanda.github.io/media/posts/2/responsive/20250108-xl.jpg 1600w ,https://ultralavanda.github.io/ultralavanda.github.io/media/posts/2/responsive/20250108-2xl.jpg 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://ultralavanda.github.io/ultralavanda.github.io/media/posts/2/20250108.jpg" alt="" width="500" height="311" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://ultralavanda.github.io/ultralavanda.github.io/media/posts/2/responsive/20250108-xs.jpg 640w ,https://ultralavanda.github.io/ultralavanda.github.io/media/posts/2/responsive/20250108-sm.jpg 768w ,https://ultralavanda.github.io/ultralavanda.github.io/media/posts/2/responsive/20250108-md.jpg 1024w ,https://ultralavanda.github.io/ultralavanda.github.io/media/posts/2/responsive/20250108-lg.jpg 1366w ,https://ultralavanda.github.io/ultralavanda.github.io/media/posts/2/responsive/20250108-xl.jpg 1600w ,https://ultralavanda.github.io/ultralavanda.github.io/media/posts/2/responsive/20250108-2xl.jpg 1920w"></figure>
             ]]>
         </content>
     </entry>
